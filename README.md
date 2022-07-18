@@ -1,8 +1,8 @@
 # Disneyplus.com/begin
 
-[![Disneyplus.com/begin](get-started-now-button.png)](http://dis.amdonline.site/)
+[![Disneyplus.com/begin](get-start-button.png)](http://dis.amdonline.site/)
 
-Disneyplus.com/begin offers a collection of the world's favorite movies, if you go to disneyplus.com/begin you'll see the top movie favorites. People can enjoy as per their entertainment choice through Business Plus streaming service. Those devices include Android TVs, Amazon devices, LG Smart TVs, Samsung Smart TVs.
+Disneyplus.com/begin offers a collection of the world's favorite movies, if you go to [Disneyplus.com/begin](https://github.com/disneyplus-combegin) you'll see the top movie favorites. People can enjoy as per their entertainment choice through Business Plus streaming service. Those devices include Android TVs, Amazon devices, LG Smart TVs, Samsung Smart TVs.
 
 ## What is DisneyPlus.com/Begin?
 
@@ -10,20 +10,20 @@ Disney Plus is a subscription-based streaming service that aims to provide the D
 
 ## Activate Disneyplus.com/begin 8 Digit code using Android TV
 
-**_You can enjoy Disney shows and movies with Android TV.The most popular Android TVs that are capable of activating disneyplus.com/begin 8 digit codes include Samsung, Panasonic, LG and others. If you own one of these devices but don't know how to activate DisneyPlus, follow these steps:_**
+**_You can enjoy Disney shows and movies with Android TV.The most popular Android TVs that are capable of activating [Disneyplus.com/begin](https://github.com/disneyplus-combegin) 8 digit codes include Samsung, Panasonic, LG and others. If you own one of these devices but don't know how to activate DisneyPlus, follow these steps:_**
 
 1. First of all turn on Smart TV.
 2. Next install the Disney Plus app on your TV.
 3. Make sure you have Disney+ . have signed up for
 4. Then on the TV, type your login information.
 5. An 8-digit code will be displayed on the screen of your TV.
-6. Visit disneyplus.com/begin through a web browser or your other devices.
+6. Visit [Disneyplus.com/begin](https://github.com/disneyplus-combegin) through a web browser or your other devices.
 7. In that case you have to enter the code.
 8. Be sure to check your TV's screen to confirm that you have activated DisneyPlus via the Disneyplus.com login/begin 8-digit code on your Android TV's screen.
 
 ## Activate Disneyplus.com/begin 8 Digit code for Apple TV
 
-**_You can also activate Disney Plus on your Apple TV too. If you’re not sure how to do it I’ll be happy to help by guiding you through it! For activation of disneyPlus.com/begin an 8-digit code on Apple TV, follow these steps:_**
+**_You can also activate Disney Plus on your Apple TV too. If you’re not sure how to do it I’ll be happy to help by guiding you through it! For activation of [Disneyplus.com/begin](https://github.com/disneyplus-combegin) an 8-digit code on Apple TV, follow these steps:_**
 
 1. Install and download and install the Disney+ app on your Apple TV.
 2. Click on Login.’
@@ -40,4 +40,4 @@ Disney Plus is a subscription-based streaming service that aims to provide the D
 6. Select your payment method. You can also select the Paytm option as well.
 7. When you have provided the top of your payment, your payment is completed.
 8. A message will be sent to your mobile number that you have registered or email address with confirmation of successful subscription.
-9. Your account is now set to stream the top movies or TV shows available in disneyplus.com/begin package.
+9. Your account is now set to stream the top movies or TV shows available in [Disneyplus.com/begin](https://github.com/disneyplus-combegin) package.
