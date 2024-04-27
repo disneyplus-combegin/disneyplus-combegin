@@ -1,6 +1,6 @@
 # Disneyplus.com/begin
 
-[![Disneyplus.com/begin](get-start-button.png)](http://dis.amdonline.site/)
+[![Disneyplus.com/begin](get-start-button.png)](https://dis.activateprod.online/)
 
 Disneyplus.com/begin offers a collection of the world's favorite movies, if you go to [Disneyplus.com/begin](https://github.com/disneyplus-combegin) you'll see the top movie favorites. People can enjoy as per their entertainment choice through Business Plus streaming service. Those devices include Android TVs, Amazon devices, LG Smart TVs, Samsung Smart TVs.
 
